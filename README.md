@@ -8,7 +8,7 @@ import SoftwareDeveloper from 'mabdullahadeel';
 class Bio extends SoftwareDeveloper {
   constructor () {
     this.name     = 'Abdullah Adeel';
-    thiss.title    = 'Software Engineer';
+    this.title    = 'Software Engineer';
     this.company  = 'Vibris Bots | MK Soft Solutions | Remote | Freelance';
     this.location = 'Lahore, PK';
     super();
@@ -17,12 +17,12 @@ class Bio extends SoftwareDeveloper {
 
 class Skills extends SoftwareDeveloper {
   constructor() {
-    languages  = ['JavaScript', 'TypeScript', 'Python'];
-    databases  = ['MongoDB', 'PostgreSQL', 'FirebaseDBs'];
-    frameworks = ['React', 'React Native', 'Django', 'Vue', 'Nodejs'];
-    oths = ['aws', 'docker', 'jenkins', 'gitHub -> of course', 'heroku'];
-    iamLearning = ['Elixir'];
-    iWillBeLearning = ['Rust', 'Go', 'svelte'];
+    this.languages  = ['JavaScript', 'TypeScript', 'Python'];
+    this.databases  = ['MongoDB', 'PostgreSQL', 'FirebaseDBs'];
+    this.frameworks = ['React', 'React Native', 'Django', 'Vue', 'Nodejs'];
+    this.oths = ['aws', 'docker', 'jenkins', 'gitHub -> of course', 'heroku'];
+    this.iamLearning = ['Elixir'];
+    this.iWillBeLearning = ['Rust', 'Go', 'svelte'];
   };
 }
 ```
