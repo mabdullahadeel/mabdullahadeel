@@ -19,7 +19,7 @@ class Skills extends SoftwareDeveloper {
   constructor() {
     this.languages  = ['JavaScript', 'TypeScript', 'Python'];
     this.databases  = ['MongoDB', 'PostgreSQL', 'FirebaseDBs'];
-    this.frameworks = ['React', 'React Native', 'Django', 'Vue', 'Nodejs'];
+    this.frameworks = ['React', 'React Native', 'Django', 'Vue', 'Nodejs', 'Electron js'];
     this.oths = ['aws', 'docker', 'jenkins', 'gitHub -> of course', 'heroku'];
     this.iamLearning = ['Go'];
     this.iWillBeLearning = ['Rust', 'Elixir', 'svelte'];
