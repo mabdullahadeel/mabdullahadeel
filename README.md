@@ -21,8 +21,8 @@ class Skills extends SoftwareDeveloper {
     this.databases  = ['MongoDB', 'PostgreSQL', 'FirebaseDBs'];
     this.frameworks = ['React', 'React Native', 'Django', 'Vue', 'Nodejs', 'Electron js'];
     this.oths = ['aws', 'docker', 'jenkins', 'gitHub -> of course', 'heroku'];
-    this.iamLearning = ['Go'];
-    this.iWillBeLearning = ['Rust', 'Elixir', 'svelte'];
+    this.iamLearning = ['Go', 'Elixir];
+    this.iWillBeLearning = ['Rust', 'svelte'];
   };
 }
 ```
