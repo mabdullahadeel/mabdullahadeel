@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mabdullahadeel/mabdullahadeel/blob/master/assets/images/cover-mabdullahsial.png" />
+  <img src="https://github.com/mabdullahadeel/mabdullahadeel/blob/master/assets/images/gh-cover-mabdullahadeel.png" />
 </p>
 
 ```js
