@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mabdullahadeel/mabdullahadeel/blob/master/assets/images/cover-mabdullahsial.png" />
+  <img src="https://github.com/mabdullahadeel/mabdullahadeel/blob/master/assets/images/gh-cover-mabdullahadeel.png" />
 </p>
 
 ```js
@@ -20,7 +20,7 @@ class Skills extends SoftwareDeveloper {
     this.languages  = ['JavaScript', 'TypeScript', 'Python'];
     this.databases  = ['MongoDB', 'PostgreSQL', 'FirebaseDBs'];
     this.frameworks = ['React', 'React Native', 'Django', 'Vue', 'Nodejs', 'Electron js'];
-    this.oths = ['aws', 'docker', 'jenkins', 'gitHub -> of course', 'heroku'];
+    this.oths = ['aws', 'docker', 'jenkins', 'git', 'heroku'];
     this.iamLearning = ['Go', 'Elixir];
     this.iWillBeLearning = ['Rust', 'svelte'];
   };
