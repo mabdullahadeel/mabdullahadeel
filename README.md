@@ -1,18 +1,18 @@
 <!-- ######################### STYLES START ######################### -->
-<img src="./styles/main.svg" width="0" height="0" alt="main.css">
+<!-- <img src="./styles/main.svg" width="0" height="0" alt="main.css"> -->
 <!-- ######################### STYLES END ######################### -->
 
 <p align="center">
   <img src="./assets/images/gh-cover-high-res-mabdullahadeel.gif" />
 </p>
 
-<h2 align="center" style="font-size: 36px">Hi 👋,  <a href="https://abdadeel.com" target="blank">Abdullah Adeel (AB)</a> here...</h2> 
-<h3 align="center">I like learning new things, sharing and building things collaboratively..</h3>
+<p align="center" style="font-size: 36px">Hi 👋,  <a href="https://abdadeel.com" target="blank">Abdullah Adeel (AB)</a> here...</p>
+<p style="font-size: 18px" align="center">I like learning new things, sharing and building things collaboratively..</p>
 <hr>
 
 <!-- Social Media Handles -->
 
-<h2 align="left" class="text-3xl font-bold underline">🤝 Let's meet</h2>
+<p style="font-size: 24px" align="left">🤝 Let's meet</p>
 
 <!-- Main Links -->
 <p align="center">
@@ -56,8 +56,8 @@
 </p>
   
 <!-- Tech -->
-<div align="left" style="border:1px solid #30363d; border-radius:10px; padding:1rem">
-  <h2 align="left">🤖 I work with</h2>
+<div align="left" style="border:1px solid #30363d; border-radius:10px; padding:1rem; margin:0.5rem;">
+  <p style="font-size: 24px" align="left">🤖 I work with</p>
   <!-- Languages -->
   <div align="left" style="display:flex; cursor:pointer">
       <img align="center" src="https://img.icons8.com/color/96/000000/python--v1.png" alt="abdadeel" height="60" width="60" />
@@ -91,8 +91,8 @@
   </div>
 </div>
 
-<div align="left" style="border:1px solid #30363d; border-radius:10px; padding:1rem; margin-top: 1rem">
-  <h2 align="left">🏫 I am Learning</h2>
+<div align="left" style="border:1px solid #30363d; border-radius:10px; padding:1rem; margin: 0.5rem">
+  <p style="font-size: 24px" align="left">🏫 I am Learning</p>
   <img align="center" src="https://i.imgur.com/EoUpe6g.png?1" alt="abdadeel" height="50" width="50" />
   <img align="center" src="https://img.icons8.com/doodle/96/000000/svetle.png" alt="abdadeel" height="50" width="50" />
 </div>
