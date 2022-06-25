@@ -1,14 +1,6 @@
 <!-- ######################### STYLES START ######################### -->
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
-
-  * {
-    font-family: 'Space Grotesk', sans-serif;
-  }
-
-</style>
+<img src="./styles/main.svg" width="0" height="0" alt="main.css">
 <!-- ######################### STYLES END ######################### -->
-
 
 <p align="center">
   <img src="./assets/images/gh-cover-high-res-mabdullahadeel.gif" />
@@ -84,7 +76,6 @@
     <img align="center" src="https://img.icons8.com/color/480/000000/django.png" alt="abdadeel" height="50" width="50" />
     <img align="center" src="https://i.imgur.com/AzoqwQf.png" alt="abdadeel" height="50" width="50" />
     <img align="center" src="https://img.icons8.com/color/480/000000/react-native.png" alt="abdadeel" height="50" width="50" />
-    <img align="center" src="https://img.icons8.com/color/480/000000/tailwindcss.png" alt="abdadeel" height="50" width="50" />
   </div>
   <div align="left" style="display:flex; cursor:pointer; margin-top:1rem;">
     <img align="center" src="https://img.icons8.com/color/480/000000/mysql-logo.png" alt="abdadeel" height="50" width="50" />
