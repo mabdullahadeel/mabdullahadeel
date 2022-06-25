@@ -1,3 +1,13 @@
+<!-- ######################### STYLES START ######################### -->
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap');
+
+  * {
+    font-family: 'Space Grotesk', sans-serif;
+  }
+</style>
+<!-- ######################### STYLES END ######################### -->
+
 <p align="center">
   <img src="./assets/images/gh-cover-high-res-mabdullahadeel.gif" />
 </p>
