@@ -30,6 +30,9 @@
 </p>
 <!-- Smaller Links -->
 <p align="center">
+    <a href="https://abdadeel.medium.com" target="_blank">
+      <img align="center" src=" https://img.icons8.com/ios-filled/500/000000/medium-logo.png" alt="abdadeel" height="40" width="40" />
+    </a>
    <a href="https://hashnode.abdadeel.com" target="_blank">
     <img align="center" src="https://img.icons8.com/color/96/000000/hashnode.png" alt="abdadeel" height="40" width="40" />
   </a>
