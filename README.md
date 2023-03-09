@@ -76,6 +76,7 @@
   <div align="left" style="display:flex; cursor:pointer; margin-top:1rem; align-items:center;">
     <img align="center" src="https://img.icons8.com/color/480/000000/mysql-logo.png" alt="abdadeel" height="50" width="50" />
     <img src="https://img.icons8.com/color/480/000000/postgreesql.png" alt="abdadeel-postgres" height="50" width="50"/>
+    <img src="https://img.icons8.com/color/480/null/redis.png" alt="abdadeel-redis" height="50" width="50"/>
     <img align="center" src="https://img.icons8.com/color/480/000000/mongodb.png" alt="abdadeel" height="50" width="50" />
   </div>
   <div align="left" style="display:flex; cursor:pointer; margin-top:1rem;">
