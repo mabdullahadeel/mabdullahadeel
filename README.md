@@ -91,5 +91,9 @@
   <h2 align="left">💟 Interested in</h2>
   <img align="center" src="https://i.imgur.com/EoUpe6g.png?1" alt="abdadeel" height="50" width="50" />
   <img align="center" src="https://www.solidjs.com/assets/logo-123b04bc.svg" alt="abdadeel-solid.js" height="50" width="50" />
-  <img align="center" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="abdadeel-solid.js" height="50" width="50" />
+  <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://www.nicepng.com/png/full/34-348422_community-spotlight-rust-programming-language.png">
+      <source media="(prefers-color-scheme: light)" srcset="https://www.rust-lang.org/static/images/rust-logo-blk.svg">
+      <img align="center" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="abdadeel-rust" height="50" width="50" />
+    </picture>
 </div>
