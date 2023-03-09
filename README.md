@@ -88,7 +88,8 @@
 </div>
 
 <div align="left" style="border:1px solid #30363d; border-radius:10px; padding:1rem; margin-top: 1rem">
-  <h2 align="left">🏫 I am Learning</h2>
+  <h2 align="left">💟 Interested in</h2>
   <img align="center" src="https://i.imgur.com/EoUpe6g.png?1" alt="abdadeel" height="50" width="50" />
   <img align="center" src="https://www.solidjs.com/assets/logo-123b04bc.svg" alt="abdadeel-solid.js" height="50" width="50" />
+  <img align="center" src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="abdadeel-solid.js" height="50" width="50" />
 </div>
