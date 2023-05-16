@@ -11,7 +11,7 @@
 <h2 align="left">🤝 Let's meet</h2>
 
 <!-- Main Links -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/mabdullahadeel" target="_blank">
     <img align="center" src="https://img.icons8.com/nolan/96/github.png" alt="abdadeel" height="60" width="60" />
   </a>
@@ -27,7 +27,7 @@
   <a href="https://abdadeel.com" target="_blank">
     <img align="center" src="https://img.icons8.com/fluency/96/9B59B6/internet.png" alt="abdadeel" height="60" width="60" />
   </a>
-</p>
+</p> -->
 <!-- Smaller Links -->
 <p align="center">
     <a href="https://abdadeel.medium.com" target="_blank">
